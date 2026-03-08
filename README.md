@@ -53,12 +53,12 @@ these themes aim to make your browser both visually inspiring and comfortably pr
          <sub><b>Aurora Borealis</b></sub>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22487-aurora-borealis-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
+         <a href="https://chromewebstore.google.com/detail/ggdeckhhnhopdjnnbngcflijkhnlodfk">
+            <img src="https://img.shields.io/chrome-web-store/v/ggdeckhhnhopdjnnbngcflijkhnlodfk?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22487-aurora-borealis-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
+            <img src="https://img.shields.io/chrome-web-store/users/ggdeckhhnhopdjnnbngcflijkhnlodfk?label=Downloads&style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22487-aurora-borealis-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
+            <img src="https://img.shields.io/chrome-web-store/rating/ggdeckhhnhopdjnnbngcflijkhnlodfk?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td>
    </tr>
