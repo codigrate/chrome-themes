@@ -1,0 +1,38 @@
+{
+  "manifest_version": 3,
+  "name": "Aurora Borealis Theme",
+  "description": "Dark Chrome theme inspired by the Aurora Borealis, featuring deep blues and teal accents designed for comfortable browsing.",
+  "version": "2026.1.1",
+    "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [28, 56, 71],
+      "frame_inactive": [28, 56, 71],
+      "frame_incognito": [17, 39, 51],
+      "frame_incognito_inactive": [20, 43, 55],
+
+      "toolbar": [24, 50, 64],
+      "toolbar_button_icon": [4, 150, 130],
+      "bookmark_text": [176, 185, 190],
+
+      "tab_text": [176, 185, 190],
+      "tab_background_text": [133, 162, 179],
+      "tab_background_text_inactive": [133, 162, 179],
+      "tab_background_text_incognito": [133, 162, 179],
+      "tab_background_text_incognito_inactive": [133, 162, 179],
+
+      "omnibox_background": [17, 39, 51],
+      "omnibox_text": [176, 185, 190],
+
+      "ntp_background": [20, 43, 55],
+      "ntp_text": [176, 185, 190],
+      "ntp_link": [122, 198, 245],
+
+      "button_background": [4, 58, 51]
+    }
+  }
+}
