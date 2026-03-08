@@ -46,7 +46,7 @@ these themes aim to make your browser both visually inspiring and comfortably pr
          </a>
       </td> 
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
+         <a href="[https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme](https://chromewebstore.google.com/detail/ggdeckhhnhopdjnnbngcflijkhnlodfk)">
             <img src="nature/aurora-borealis-theme/icon.png" width="90px;" alt="Aurora Borealis"/>
          </a>
          <br/>
