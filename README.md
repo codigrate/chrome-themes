@@ -232,19 +232,19 @@ these themes aim to make your browser both visually inspiring and comfortably pr
          </a>
       </td>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
+         <a href="https://chromewebstore.google.com/detail/glgifonajfdadakpjjndpfnmmlaoeglb">
             <img src="cities/tokyo-theme/icon.png" width="90px;" alt="Tokyo"/>
          </a>
          <br/>
          <sub><b>Tokyo</b></sub>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/29646-tokyo-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/29646-tokyo-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
+         <a href="https://chromewebstore.google.com/detail/glgifonajfdadakpjjndpfnmmlaoeglb">
+            <img src="https://img.shields.io/chrome-web-store/v/glgifonajfdadakpjjndpfnmmlaoeglb?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/29646-tokyo-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
+            <img src="https://img.shields.io/chrome-web-store/users/glgifonajfdadakpjjndpfnmmlaoeglb?label=Downloads&style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29646-tokyo-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
+            <img src="https://img.shields.io/chrome-web-store/rating/glgifonajfdadakpjjndpfnmmlaoeglb?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td>
    </tr>
