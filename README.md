@@ -216,19 +216,19 @@ these themes aim to make your browser both visually inspiring and comfortably pr
    </tr>
    <tr>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
+         <a href="https://chromewebstore.google.com/detail/efehigdahohhplollagfpnleobcaknpc">
             <img src="cities/tallinn-theme/icon.png" width="90px;" alt="Tallinn"/>
          </a>
          <br/>
          <sub><b>Tallinn</b></sub>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/29671-tallinn-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/29671-tallinn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
+         <a href="https://chromewebstore.google.com/detail/efehigdahohhplollagfpnleobcaknpc">
+            <img src="https://img.shields.io/chrome-web-store/v/efehigdahohhplollagfpnleobcaknpc?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/29671-tallinn-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
+            <img src="https://img.shields.io/chrome-web-store/users/efehigdahohhplollagfpnleobcaknpc?label=Downloads&style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29671-tallinn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
+            <img src="https://img.shields.io/chrome-web-store/rating/efehigdahohhplollagfpnleobcaknpc?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td>
       <td align="center">
