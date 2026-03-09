@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Aurora Borealis Theme",
   "description": "Dark Chrome theme inspired by the Aurora Borealis, featuring deep blues and teal accents designed for comfortable browsing.",
-  "version": "2026.1.1",
+  "version": "2026.1.2",
     "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -33,6 +33,13 @@
       "ntp_link": [122, 198, 245],
 
       "button_background": [4, 58, 51]
+    },
+    "images": {
+      "theme_ntp_background": "images/background.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
     }
   }
 }
