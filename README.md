@@ -80,19 +80,19 @@ these themes aim to make your browser both visually inspiring and comfortably pr
          </a>
       </td>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
+         <a href="https://chromewebstore.google.com/detail/elbdggfmdikianlcniekopdflpkppnoj">
             <img src="nature/sequoia-theme/icon.png" width="90px;" alt="Sequoia"/>
          </a>
          <br/>
          <sub><b>Sequoia</b></sub>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22826-sequoia-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22826-sequoia-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
+         <a href="https://chromewebstore.google.com/detail/elbdggfmdikianlcniekopdflpkppnoj">
+            <img src="https://img.shields.io/chrome-web-store/v/elbdggfmdikianlcniekopdflpkppnoj?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22826-sequoia-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
+            <img src="https://img.shields.io/chrome-web-store/users/elbdggfmdikianlcniekopdflpkppnoj?label=Downloads&style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22826-sequoia-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
+            <img src="https://img.shields.io/chrome-web-store/rating/elbdggfmdikianlcniekopdflpkppnoj?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td>
    </tr>
