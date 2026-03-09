@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Paris Theme",
+  "description": "Dark Chrome theme inspired by Paris, featuring deep rosewood tones, dusty pink accents, and elegant evening contrast.",
+  "version": "2026.1.1",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [86, 66, 69],
+      "frame_inactive": [86, 66, 69],
+      "frame_incognito": [63, 48, 51],
+      "frame_incognito_inactive": [39, 31, 32],
+
+      "toolbar": [63, 48, 51],
+      "toolbar_button_icon": [211, 145, 153],
+      "bookmark_text": [232, 216, 218],
+
+      "tab_text": [232, 216, 218],
+      "tab_background_text": [202, 162, 166],
+      "tab_background_text_inactive": [202, 162, 166],
+      "tab_background_text_incognito": [202, 162, 166],
+      "tab_background_text_incognito_inactive": [202, 162, 166],
+
+      "omnibox_background": [19, 16, 16],
+      "omnibox_text": [232, 216, 218],
+
+      "ntp_background": [39, 31, 32],
+      "ntp_text": [232, 216, 218],
+      "ntp_link": [211, 145, 153],
+
+      "button_background": [83, 45, 51]
+    },
+    "images": {
+      "theme_ntp_background": "images/background.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
