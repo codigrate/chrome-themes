@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Sakura Theme",
+  "description": "Light Chrome theme inspired by Sakura, featuring soft pink tones, rose accents, and gentle spring colors.",
+  "version": "2026.1.1",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [248, 219, 230],
+      "frame_inactive": [248, 219, 230],
+      "frame_incognito": [252, 244, 247],
+      "frame_incognito_inactive": [254, 252, 252],
+
+      "toolbar": [252, 244, 247],
+      "toolbar_button_icon": [181, 75, 102],
+      "bookmark_text": [61, 0, 19],
+
+      "tab_text": [61, 0, 19],
+      "tab_background_text": [148, 102, 125],
+      "tab_background_text_inactive": [148, 102, 125],
+      "tab_background_text_incognito": [148, 102, 125],
+      "tab_background_text_incognito_inactive": [148, 102, 125],
+
+      "omnibox_background": [255, 255, 255],
+      "omnibox_text": [61, 0, 19],
+
+      "ntp_background": [254, 252, 252],
+      "ntp_text": [61, 0, 19],
+      "ntp_link": [181, 75, 102],
+
+      "button_background": [219, 234, 203]
+    },
+    "images": {
+      "theme_ntp_background": "images/background.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
