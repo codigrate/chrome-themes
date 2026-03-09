@@ -98,19 +98,19 @@ these themes aim to make your browser both visually inspiring and comfortably pr
    </tr>
    <tr>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
+         <a href="https://chromewebstore.google.com/detail/fffebmlejekcghghcmiinjamjdcbbojc">
             <img src="nature/autumn-theme/icon.png" width="90px;" alt="Autumn"/>
          </a>
          <br/>
          <sub><b>Autumn</b></sub>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22700-autumn-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22700-autumn-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
+         <a href="https://chromewebstore.google.com/detail/fffebmlejekcghghcmiinjamjdcbbojc">
+            <img src="https://img.shields.io/chrome-web-store/v/fffebmlejekcghghcmiinjamjdcbbojc?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22700-autumn-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
+            <img src="https://img.shields.io/chrome-web-store/users/fffebmlejekcghghcmiinjamjdcbbojc?label=Downloads&style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22700-autumn-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
+            <img src="https://img.shields.io/chrome-web-store/rating/fffebmlejekcghghcmiinjamjdcbbojc?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td> 
       <td align="center">
