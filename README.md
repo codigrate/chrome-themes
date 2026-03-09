@@ -30,23 +30,23 @@ these themes aim to make your browser both visually inspiring and comfortably pr
    </tr>
    <tr>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
+         <a href="https://chromewebstore.google.com/detail/kcldghlfficdfjjjcenephkkdkcjngic">
             <img src="nature/everest-theme/icon.png" width="90px;" alt="Everest"/>
          </a>
          <br/>
          <sub><b>Everest</b></sub>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/22653-everest-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/22653-everest-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
+         <a href="https://chromewebstore.google.com/detail/kcldghlfficdfjjjcenephkkdkcjngic">
+            <img src="https://img.shields.io/chrome-web-store/v/kcldghlfficdfjjjcenephkkdkcjngic?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/22653-everest-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
+            <img src="https://img.shields.io/chrome-web-store/users/kcldghlfficdfjjjcenephkkdkcjngic?label=Downloads&style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/22653-everest-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
+            <img src="https://img.shields.io/chrome-web-store/rating/kcldghlfficdfjjjcenephkkdkcjngic?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td> 
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/22487-aurora-borealis-theme">
+         <a href="https://chromewebstore.google.com/detail/ggdeckhhnhopdjnnbngcflijkhnlodfk">
             <img src="nature/aurora-borealis-theme/icon.png" width="90px;" alt="Aurora Borealis"/>
          </a>
          <br/>
@@ -129,28 +129,6 @@ these themes aim to make your browser both visually inspiring and comfortably pr
             <img src="https://img.shields.io/jetbrains/plugin/r/rating/22961-roraima-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td>
-   </tr>
-   <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="nature/salda-theme/icon.png" width="90px;" alt="Salda"/>
-         </a>
-         <br/>
-         <sub><b>Salda</b></sub>
-      </td>
-      <td align="left">
-            Premium
-      </td> 
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="nature/ocean-theme/icon.png" width="90px;" alt="Ocean"/>
-         </a>
-         <br/>
-         <sub><b>Ocean</b></sub>
-      </td>
-      <td align="left">
-            Premium
-      </td> 
    </tr>
 </table>
 
@@ -267,54 +245,6 @@ these themes aim to make your browser both visually inspiring and comfortably pr
             <img src="https://img.shields.io/jetbrains/plugin/d/29646-tokyo-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
             <img src="https://img.shields.io/jetbrains/plugin/r/rating/29646-tokyo-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
-         </a>
-      </td>
-   </tr>
-   <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="cities/sydney-theme/icon.png" width="90px;" alt="Sydney"/>
-         </a>
-         <br/>
-         <sub><b>Sydney</b></sub>
-      </td>
-      <td align="left">
-            Premium
-      </td> 
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="cities/prague-theme/icon.png" width="90px;" alt="Prague"/>
-         </a>
-         <br/>
-         <sub><b>Prague</b></sub>
-      </td>
-      <td align="left">
-            Premium
-      </td> 
-   </tr>
-</table>
-
-## Collections
-
-<!-- THEMES-LIST:START - Do not remove or modify this section -->
-<!-- prettier-ignore-start -->
-<!-- markdownlint-disable -->
-<table> 
-   <tr>
-      <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="all-in-one-themes/icon.png" width="90px;" alt="All In One"/>
-         </a>
-         <br/>
-         <sub><b>All In One</b></sub>
-      </td>
-      <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/30132-all-in-one-themes">
-            <img src="https://img.shields.io/jetbrains/plugin/v/30132-all-in-one-themes.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/30132-all-in-one-themes.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
-            <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/30132-all-in-one-themes?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td>
    </tr>
