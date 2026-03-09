@@ -164,19 +164,19 @@ these themes aim to make your browser both visually inspiring and comfortably pr
          </a>
       </td>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
+         <a href="https://chromewebstore.google.com/detail/kcmjhfhghepidmmaklccljefhjgfnlbc">
             <img src="cities/miami-theme/icon.png" width="90px;" alt="Miami"/>
          </a>
          <br/>
          <sub><b>Miami</b></sub>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/29582-miami-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/29582-miami-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
+         <a href="https://chromewebstore.google.com/detail/kcmjhfhghepidmmaklccljefhjgfnlbc">
+            <img src="https://img.shields.io/chrome-web-store/v/kcmjhfhghepidmmaklccljefhjgfnlbc?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/29582-miami-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
+            <img src="https://img.shields.io/chrome-web-store/users/kcmjhfhghepidmmaklccljefhjgfnlbc?label=Downloads&style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29582-miami-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
+            <img src="https://img.shields.io/chrome-web-store/rating/kcmjhfhghepidmmaklccljefhjgfnlbc?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td>
    </tr>
