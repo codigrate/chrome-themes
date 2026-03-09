@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Istanbul Theme",
+  "description": "Light Chrome theme inspired by Istanbul, featuring soft turquoise tones, Bosphorus blues, and warm elegant accents.",
+  "version": "2026.1.1",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [145, 209, 218],
+      "frame_inactive": [145, 209, 218],
+      "frame_incognito": [219, 240, 241],
+      "frame_incognito_inactive": [250, 253, 253],
+
+      "toolbar": [219, 240, 241],
+      "toolbar_button_icon": [8, 126, 142],
+      "bookmark_text": [8, 58, 65],
+
+      "tab_text": [8, 58, 65],
+      "tab_background_text": [14, 104, 118],
+      "tab_background_text_inactive": [14, 104, 118],
+      "tab_background_text_incognito": [14, 104, 118],
+      "tab_background_text_incognito_inactive": [14, 104, 118],
+
+      "omnibox_background": [255, 255, 255],
+      "omnibox_text": [8, 58, 65],
+
+      "ntp_background": [250, 253, 253],
+      "ntp_text": [8, 58, 65],
+      "ntp_link": [8, 126, 142],
+
+      "button_background": [239, 234, 208]
+    },
+    "images": {
+      "theme_ntp_background": "images/background.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
