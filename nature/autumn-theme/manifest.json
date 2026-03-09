@@ -1,0 +1,45 @@
+{
+  "manifest_version": 3,
+  "name": "Autumn Theme",
+  "description": "Light Chrome theme inspired by autumn, featuring soft cream tones, warm browns, and gentle seasonal accents.",
+  "version": "2026.1.1",
+  "icons": {
+    "16": "images/icon16.png",
+    "48": "images/icon48.png",
+    "128": "images/icon128.png"
+  },
+  "theme": {
+    "colors": {
+      "frame": [239, 230, 224],
+      "frame_inactive": [239, 230, 224],
+      "frame_incognito": [248, 244, 241],
+      "frame_incognito_inactive": [252, 251, 250],
+
+      "toolbar": [248, 244, 241],
+      "toolbar_button_icon": [167, 113, 76],
+      "bookmark_text": [46, 27, 15],
+
+      "tab_text": [46, 27, 15],
+      "tab_background_text": [130, 97, 76],
+      "tab_background_text_inactive": [130, 97, 76],
+      "tab_background_text_incognito": [130, 97, 76],
+      "tab_background_text_incognito_inactive": [130, 97, 76],
+
+      "omnibox_background": [255, 255, 255],
+      "omnibox_text": [46, 27, 15],
+
+      "ntp_background": [252, 251, 250],
+      "ntp_text": [46, 27, 15],
+      "ntp_link": [167, 113, 76],
+
+      "button_background": [229, 244, 205]
+    },
+    "images": {
+      "theme_ntp_background": "images/background.png"
+    },
+    "properties": {
+      "ntp_background_alignment": "center",
+      "ntp_background_repeat": "no-repeat"
+    }
+  }
+}
