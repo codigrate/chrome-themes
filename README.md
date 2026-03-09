@@ -148,19 +148,19 @@ these themes aim to make your browser both visually inspiring and comfortably pr
    </tr>
    <tr>
       <td align="center">
-         <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
+         <a href="https://chromewebstore.google.com/detail/cjlcpahdceldmbpjbfglhmdlmonjhndf">
             <img src="cities/istanbul-theme/icon.png" width="90px;" alt="Istanbul"/>
          </a>
          <br/>
          <sub><b>Istanbul</b></sub>
       </td>
       <td align="left">
-         <a href="https://plugins.jetbrains.com/plugin/29590-istanbul-theme">
-            <img src="https://img.shields.io/jetbrains/plugin/v/29590-istanbul-theme.svg?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
+         <a href="https://chromewebstore.google.com/detail/cjlcpahdceldmbpjbfglhmdlmonjhndf">
+            <img src="https://img.shields.io/chrome-web-store/v/cjlcpahdceldmbpjbfglhmdlmonjhndf?label=Version&style=for-the-badge&logo=jetbrains" height="28px;" alt="Version"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/d/29590-istanbul-theme.svg?style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
+            <img src="https://img.shields.io/chrome-web-store/users/cjlcpahdceldmbpjbfglhmdlmonjhndf?label=Downloads&style=for-the-badge&logo=jetbrains" height="28px;" alt="Downloads"/>
             <br/>
-            <img src="https://img.shields.io/jetbrains/plugin/r/rating/29590-istanbul-theme?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
+            <img src="https://img.shields.io/chrome-web-store/rating/cjlcpahdceldmbpjbfglhmdlmonjhndf?label=Rating&style=for-the-badge&logo=jetbrains" height="28px;" alt="Rating"/>
          </a>
       </td>
       <td align="center">
