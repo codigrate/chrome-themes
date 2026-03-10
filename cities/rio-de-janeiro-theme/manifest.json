@@ -33,13 +33,7 @@
       "ntp_link": [55, 91, 46],
 
       "button_background": [208, 236, 239]
-    },
-    "images": {
-      "theme_ntp_background": "images/background.png"
-    },
-    "properties": {
-      "ntp_background_alignment": "center",
-      "ntp_background_repeat": "no-repeat"
+
     }
   }
 }
