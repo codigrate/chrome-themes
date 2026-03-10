@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Everest Theme",
   "description": "Light Chrome theme inspired by Everest, featuring crisp snow tones, soft blue accents, and warm highlights.",
-  "version": "2026.1.1",
+  "version": "2026.1.2",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -33,7 +33,6 @@
       "ntp_link": [36, 106, 137],
 
       "button_background": [246, 212, 200]
-
     }
   }
 }
