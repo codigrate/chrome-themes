@@ -717,6 +717,34 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
    </tr>
 </table>
 
+## Collections
+
+<p align="center">
+   <a href="https://chromewebstore.google.com/detail/all-in-one-themes/iekicoldppmopekekolhdoofncnhhbeh">
+      <img src="all-in-one-themes/icon.png" alt="Everest" width="160">
+   </a>
+</p>
+
+<h1 align="center">
+All In One Themes
+</h1>
+
+[![Version](https://img.shields.io/chrome-web-store/v/iekicoldppmopekekolhdoofncnhhbeh?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/kcldghlfficdfjjjcenephkkdkcjngic)
+[![Users](https://img.shields.io/chrome-web-store/users/iekicoldppmopekekolhdoofncnhhbeh?label=Users&style=for-the-badge)](https://chromewebstore.google.com/detail/kcldghlfficdfjjjcenephkkdkcjngic)
+[![Rating](https://img.shields.io/chrome-web-store/rating/iekicoldppmopekekolhdoofncnhhbeh?label=Rating&style=for-the-badge)](https://chromewebstore.google.com/detail/kcldghlfficdfjjjcenephkkdkcjngic)
+
+## Description
+
+All in One Themes is the complete theme experience in a single package,
+bringing together all Codigrate themes into one unified collection for JetBrains IDEs.
+From calm, light environments inspired by natural landscapes to rich,
+cinematic dark themes shaped by iconic cities, this bundle lets you switch moods, lighting,
+and atmosphere without disrupting your workflow.
+
+## Screenshots
+
+<img src="all-in-one-themes/screenshot-1.png" alt="screenshot">
+
 ## Contributors
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
