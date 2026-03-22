@@ -1,0 +1,98 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>All In One Themes</title>
+  <link rel="stylesheet" href="popup.css">
+</head>
+<body>
+  <div class="container">
+    <h1>All In One Themes</h1>
+
+    <p class="subtle">Carefully crafted collection of Chrome themes by Codigrate inspired by nature and iconic cities around the world.</p>
+
+    <label class="theme-select-label" for="themeSelect">Theme</label>
+    <select id="themeSelect"></select>
+
+    <div class="preview-card" aria-live="polite">
+      <div class="chrome-mock">
+        <div class="titlebar">
+          <div class="traffic">
+            <span></span><span></span><span></span>
+          </div>
+          <div class="window-title">Chrome</div>
+        </div>
+
+        <div class="tabstrip">
+          <div class="tab active">
+            <div class="tab-favicon"></div>
+            <div class="tab-label">Google</div>
+            <div class="tab-close"></div>
+          </div>
+          <div class="tab inactive">
+            <div class="tab-favicon small"></div>
+            <div class="tab-label short">Gmail</div>
+          </div>
+          <div class="tab inactive faint">
+            <div class="tab-favicon small"></div>
+            <div class="tab-label short">Docs</div>
+          </div>
+        </div>
+
+        <div class="toolbar">
+          <div class="nav-group">
+            <div class="icon-btn"></div>
+            <div class="icon-btn"></div>
+            <div class="icon-btn"></div>
+          </div>
+          <div class="omnibox">
+            <div class="lock-dot"></div>
+            <div class="url-text">google.com</div>
+            <div class="star-dot"></div>
+          </div>
+          <div class="right-group">
+            <div class="accent-btn"></div>
+            <div class="icon-btn"></div>
+          </div>
+        </div>
+
+        <div class="bookmark-bar">
+          <div class="bookmark-pill active"></div>
+          <div class="bookmark-pill"></div>
+          <div class="bookmark-pill short"></div>
+        </div>
+
+        <div class="page">
+          <div class="page-line long"></div>
+          <div class="page-line"></div>
+          <div class="page-line short"></div>
+        </div>
+      </div>
+
+      <div class="meta">
+        <div id="themeName" class="theme-name"></div>
+        <div class="legend">
+          <span><i class="swatch background"></i> Background</span>
+          <span><i class="swatch frame"></i> Frame</span>
+          <span><i class="swatch accent"></i> Accent</span>
+        </div>
+      </div>
+    </div>
+
+    <button class="add-to-chome-button" id="openBtn">Add to Chrome</button>
+
+    <div class="info-box">
+      <div class="info-title">How it works?</div>
+      <div class="info-text">Chrome themes only can be installed from the Chrome Web Store. After you add the theme, Chrome applies it automatically.</div>
+    </div>
+
+    <div class="row">
+      <p class="info-text">made by </p><a id="codigrate" class="link" target="_blank" href="https://codigrate.com">Codigrate</a>
+    </div>
+  </div>
+
+  <script src="themes.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>
