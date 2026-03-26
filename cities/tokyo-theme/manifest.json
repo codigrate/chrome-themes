@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Tokyo Theme",
   "description": "Dark Chrome theme inspired by Tokyo, featuring deep indigo tones, neon blue accents, and a futuristic night mood.",
-  "version": "2026.1.2",
+  "version": "2026.1.3",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
