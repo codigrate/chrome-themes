@@ -721,7 +721,7 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
 
 <p align="center">
    <a href="https://chromewebstore.google.com/detail/all-in-one-themes/iekicoldppmopekekolhdoofncnhhbeh">
-      <img src="all-in-one-themes/icon.png" alt="Everest" width="160">
+      <img src="all-in-one-themes/icon.png" alt="All In One Themes" width="160">
    </a>
 </p>
 
@@ -743,7 +743,7 @@ and atmosphere without disrupting your workflow.
 
 ## Screenshots
 
-<img src="all-in-one-themes/screenshot-1.png" alt="screenshot">
+<img src="all-in-one-themes/screenshot-1.png" alt="All In One Themes screenshot">
 
 ## Contributors
 
