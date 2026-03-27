@@ -1,6 +1,8 @@
 const sel = document.getElementById('themeSelect');
 const btn = document.getElementById('openBtn');
 const themeNameEl = document.getElementById('themeName');
+const themeDescriptionEl = document.getElementById('themeDescription');
+const themeIconEl = document.getElementById('themeIcon');
 
 function populateThemes() {
   for (const theme of THEMES) {
@@ -27,7 +29,9 @@ function applyPreview(theme) {
   root.style.setProperty('--weak-fill-stronger', theme.preview.weakFillStronger);
   root.style.setProperty('--page-bg', theme.preview.pageBg);
   root.style.setProperty('--page-line', theme.preview.pageLine);
-  themeNameEl.textContent = theme.name;
+  themeDescriptionEl.textContent = theme.description;
+  themeIconEl.src = theme.icon;
+  themeIconEl.alt = theme.name;
 }
 
 async function saveTheme(themeKey) {
@@ -36,7 +40,7 @@ async function saveTheme(themeKey) {
 
 async function loadSavedTheme() {
   const result = await chrome.storage.sync.get(['selectedTheme']);
-  const themeKey = result.selectedTheme || THEMES[0].key;
+  const themeKey = result.selectedTheme || 'everest';
   sel.value = themeKey;
   applyPreview(getThemeByKey(themeKey));
 }

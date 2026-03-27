@@ -2,6 +2,9 @@ const THEMES = [
   {
     "key": "everest",
     "name": "Everest",
+    "category": "Nature",
+    "icon": "images/nature/everest-theme/icon48.png",
+    "description": "Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme brings a crisp and calming presence to Chrome. Soft icy tones and clean, airy surfaces evoke snow-covered peaks and clear mountain skies, creating a browsing experience that feels fresh, focused, and easy on the eyes.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/kcldghlfficdfjjjcenephkkdkcjngic?utm_source=codigrate_extension",
     "preview": {
       "frame": "#CADAE0",
@@ -23,6 +26,9 @@ const THEMES = [
   {
     "key": "aurora-borealis",
     "name": "Aurora Borealis",
+    "category": "Nature",
+    "icon": "images/nature/aurora-borealis-theme/icon48.png",
+    "description": "Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic night sky. Deep blue-green tones shape the browser frame, while luminous accents echo the ethereal colors of the Northern Lights, creating a browsing atmosphere that feels immersive, calm, and vibrant.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/ggdeckhhnhopdjnnbngcflijkhnlodfk?utm_source=codigrate_extension",
     "preview": {
       "frame": "#1C3847",
@@ -44,6 +50,9 @@ const THEMES = [
   {
     "key": "sakura",
     "name": "Sakura",
+    "category": "Nature",
+    "icon": "images/nature/sakura-theme/icon48.png",
+    "description": "Inspired by the enchanting softness of Sakura blossoms, this theme brings a delicate spring atmosphere to Chrome. Gentle pinks and muted complementary tones create a serene, polished browser experience that feels light, graceful, and easy to live with throughout the day.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/nnildobojpcnfhiihnjklleoimimmkcc?utm_source=codigrate_extension",
     "preview": {
       "frame": "#F8DBE6",
@@ -65,6 +74,9 @@ const THEMES = [
   {
     "key": "sequoia",
     "name": "Sequoia",
+    "category": "Nature",
+    "icon": "images/nature/sequoia-theme/icon48.png",
+    "description": "Inspired by the towering presence and grounded calm of sequoias, this dark theme surrounds Chrome with rich woodland tones and subtle green life. It creates a focused, earthy atmosphere that feels steady, deep, and comfortably subdued.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/elbdggfmdikianlcniekopdflpkppnoj?utm_source=codigrate_extension",
     "preview": {
       "frame": "#394132",
@@ -86,6 +98,9 @@ const THEMES = [
   {
     "key": "autumn",
     "name": "Autumn",
+    "category": "Nature",
+    "icon": "images/nature/autumn-theme/icon48.png",
+    "description": "Inspired by the warm hues and rustic charm of autumn, this light theme brings soft seasonal comfort to Chrome. Earthy oranges, mellow neutrals, and crisp contrast create a cozy browsing space that feels welcoming, balanced, and quietly expressive.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/fffebmlejekcghghcmiinjamjdcbbojc?utm_source=codigrate_extension",
     "preview": {
       "frame": "#EFE6E0",
@@ -107,6 +122,9 @@ const THEMES = [
   {
     "key": "roraima",
     "name": "Roraima",
+    "category": "Nature",
+    "icon": "images/nature/roraima-theme/icon48.png",
+    "description": "Inspired by the dramatic sunset over Mount Roraima, this dark theme blends dusky purples, ember-like oranges, and twilight shadows into a bold yet balanced browser palette. It brings warmth, depth, and a cinematic sense of atmosphere to everyday browsing.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/djgpkjnnddponeeeefijcpballhflkgd?utm_source=codigrate_extension",
     "preview": {
       "frame": "#372C2F",
@@ -128,6 +146,9 @@ const THEMES = [
   {
     "key": "istanbul",
     "name": "Istanbul",
+    "category": "Cities",
+    "icon": "images/cities/istanbul-theme/icon48.png",
+    "description": "Inspired by the soft daylight and sea breezes of Istanbul, this theme brings airy turquoise tones and warm historical accents into Chrome. It feels fresh, calm, and expressive, offering a refined browsing atmosphere with a distinct coastal elegance.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/cjlcpahdceldmbpjbfglhmdlmonjhndf?utm_source=codigrate_extension",
     "preview": {
       "frame": "#91D1DA",
@@ -149,6 +170,9 @@ const THEMES = [
   {
     "key": "miami",
     "name": "Miami",
+    "category": "Cities",
+    "icon": "images/cities/miami-theme/icon48.png",
+    "description": "Inspired by the electric nights and pastel sunsets of Miami, this dark theme fills Chrome with bold purples, vivid pinks, tropical teals, and warm neon energy. It creates a playful yet polished browsing experience with strong personality and clear visual contrast.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/kcmjhfhghepidmmaklccljefhjgfnlbc?utm_source=codigrate_extension",
     "preview": {
       "frame": "#5D263A",
@@ -170,6 +194,9 @@ const THEMES = [
   {
     "key": "rio-de-janeiro",
     "name": "Rio de Janeiro",
+    "category": "Cities",
+    "icon": "images/cities/rio-de-janeiro-theme/icon48.png",
+    "description": "Inspired by Rio's lush hills, bright air, and coastal energy, this theme blends soft minty tones with vibrant greens and clean blues to create a light, refreshing Chrome experience that feels lively, open, and balanced.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/docafppdkimloimielffokjbnpfjaaie?utm_source=codigrate_extension",
     "preview": {
       "frame": "#94B98B",
@@ -191,6 +218,9 @@ const THEMES = [
   {
     "key": "paris",
     "name": "Paris",
+    "category": "Cities",
+    "icon": "images/cities/paris-theme/icon48.png",
+    "description": "Inspired by candlelit cafes, stone boulevards, and Paris's late-night glow, this theme brings dusky rose, plum-espresso depth, and soft blush accents into Chrome. It feels romantic, moody, and elegant without losing clarity.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/jcneihnpahfoamjdncacanalmdiokkbj?utm_source=codigrate_extension",
     "preview": {
       "frame": "#564245",
@@ -212,6 +242,9 @@ const THEMES = [
   {
     "key": "tallinn",
     "name": "Tallinn",
+    "category": "Cities",
+    "icon": "images/cities/tallinn-theme/icon48.png",
+    "description": "Inspired by Tallinn's crisp light and Baltic calm, this theme pairs cool porcelain tones with Nordic blues for a browser experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps everything fresh and readable.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/efehigdahohhplollagfpnleobcaknpc?utm_source=codigrate_extension",
     "preview": {
       "frame": "#A9B9DA",
@@ -233,6 +266,9 @@ const THEMES = [
   {
     "key": "tokyo",
     "name": "Tokyo",
+    "category": "Cities",
+    "icon": "images/cities/tokyo-theme/icon48.png",
+    "description": "Inspired by Tokyo's neon-lit streets and midnight skyline, this theme surrounds Chrome with deep indigo tones, electric violets, and cool luminous accents. It feels sleek, atmospheric, and distinctly futuristic while staying polished.",
     "chromeUiUrl": "https://chromewebstore.google.com/detail/glgifonajfdadakpjjndpfnmmlaoeglb?utm_source=codigrate_extension",
     "preview": {
       "frame": "#323B66",
@@ -254,5 +290,7 @@ const THEMES = [
 ];
 
 function getThemeByKey(themeKey) {
-  return THEMES.find(theme => theme.key === themeKey) || THEMES[0];
+  const theme = THEMES.find(theme => theme.key === themeKey);
+  if (theme) return theme;
+  return THEMES.find(theme => theme.key === 'everest') || THEMES[0];
 }
