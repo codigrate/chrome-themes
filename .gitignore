@@ -5,4 +5,10 @@ nature/.DS_Store
 /media
 *.pak
 /.idea
-/all-in-one-themes
+
+/all-in-one-themes/images
+all-in-one-themes/manifest.json
+all-in-one-themes/popup.css
+all-in-one-themes/popup.html
+all-in-one-themes/popup.js
+all-in-one-themes/themes.js
