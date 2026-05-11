@@ -1,8 +1,8 @@
 {
   "manifest_version": 3,
   "name": "Sequoia Theme",
-  "description": "Dark Chrome theme inspired by Sequoia, featuring deep forest tones, earthy browns, and natural green accents.",
-  "version": "2026.1.3",
+  "description": "A dark Chrome theme inspired by Sequoia, featuring deep forest tones, earthy browns, and natural green accents.",
+  "version": "2026.1.4",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
@@ -10,30 +10,106 @@
   },
   "theme": {
     "colors": {
-      "frame": [57, 65, 50],
-      "frame_inactive": [57, 65, 50],
-      "frame_incognito": [50, 56, 44],
-      "frame_incognito_inactive": [32, 35, 28],
-
-      "toolbar": [50, 56, 44],
-      "toolbar_button_icon": [115, 166, 33],
-      "bookmark_text": [186, 190, 186],
-
-      "tab_text": [186, 190, 186],
-      "tab_background_text": [132, 145, 132],
-      "tab_background_text_inactive": [132, 145, 132],
-      "tab_background_text_incognito": [132, 145, 132],
-      "tab_background_text_incognito_inactive": [132, 145, 132],
-
-      "omnibox_background": [14, 14, 14],
-      "omnibox_text": [186, 190, 186],
-
-      "ntp_background": [32, 35, 28],
-      "ntp_text": [186, 190, 186],
-      "ntp_link": [115, 166, 33],
-
-      "button_background": [57, 65, 50]
-
+      "frame": [
+        57,
+        65,
+        50
+      ],
+      "frame_inactive": [
+        57,
+        65,
+        50
+      ],
+      "frame_incognito": [
+        50,
+        56,
+        44
+      ],
+      "frame_incognito_inactive": [
+        32,
+        35,
+        28
+      ],
+      "toolbar": [
+        50,
+        56,
+        44
+      ],
+      "toolbar_button_icon": [
+        115,
+        166,
+        33
+      ],
+      "bookmark_text": [
+        186,
+        190,
+        186
+      ],
+      "tab_text": [
+        186,
+        190,
+        186
+      ],
+      "tab_background_text": [
+        132,
+        145,
+        132
+      ],
+      "tab_background_text_inactive": [
+        132,
+        145,
+        132
+      ],
+      "tab_background_text_incognito": [
+        132,
+        145,
+        132
+      ],
+      "tab_background_text_incognito_inactive": [
+        132,
+        145,
+        132
+      ],
+      "omnibox_background": [
+        14,
+        14,
+        14
+      ],
+      "omnibox_text": [
+        186,
+        190,
+        186
+      ],
+      "omnibox_selected_background": [
+        69,
+        58,
+        52
+      ],
+      "omnibox_selected_text": [
+        186,
+        190,
+        186
+      ],
+      "ntp_background": [
+        32,
+        35,
+        28
+      ],
+      "ntp_text": [
+        186,
+        190,
+        186
+      ],
+      "ntp_link": [
+        115,
+        166,
+        33
+      ],
+      "button_background": [
+        57,
+        65,
+        50
+      ]
     }
   }
 }
