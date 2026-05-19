@@ -15,3 +15,4 @@ all-in-one-themes/themes.js
 generate-from-jetbrains-themes.js
 /node_modules
 *.json
+/.idea
