@@ -16,3 +16,4 @@ generate-from-jetbrains-themes.js
 /node_modules
 *.json
 /.idea
+*.crx
