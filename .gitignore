@@ -12,7 +12,7 @@ all-in-one-themes/popup.css
 all-in-one-themes/popup.html
 all-in-one-themes/popup.js
 all-in-one-themes/themes.js
-generate-from-jetbrains-themes.js
+all-in-one-themes/background.js
 /node_modules
 *.json
 /.idea
