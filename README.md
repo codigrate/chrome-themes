@@ -62,7 +62,7 @@ creating a browsing experience that feels fresh, focused, and easy on the eyes.
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FDFEFF">#FDFEFF</a>
+         <a href="https://codigrate.com/tools/color/FDFEFF">#FDFEFF</a>
       </td>
    </tr>
    <tr>
@@ -71,7 +71,7 @@ creating a browsing experience that feels fresh, focused, and easy on the eyes.
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/CADAE0">#CADAE0</a>
+         <a href="https://codigrate.com/tools/color/CADAE0">#CADAE0</a>
       </td>
    </tr>
    <tr>
@@ -80,7 +80,7 @@ creating a browsing experience that feels fresh, focused, and easy on the eyes.
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/246A89">#246A89</a>
+         <a href="https://codigrate.com/tools/color/246A89">#246A89</a>
       </td>
    </tr>
 </table>
@@ -120,7 +120,7 @@ Lights, creating a browsing atmosphere that feels immersive, calm, and vibrant.
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/142B37">#142B37</a>
+         <a href="https://codigrate.com/tools/color/142B37">#142B37</a>
       </td>
    </tr>
    <tr>
@@ -129,7 +129,7 @@ Lights, creating a browsing atmosphere that feels immersive, calm, and vibrant.
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1C3847">#1C3847</a>
+         <a href="https://codigrate.com/tools/color/1C3847">#1C3847</a>
       </td>
    </tr>
    <tr>
@@ -138,7 +138,7 @@ Lights, creating a browsing atmosphere that feels immersive, calm, and vibrant.
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/049682">#049682</a>
+         <a href="https://codigrate.com/tools/color/049682">#049682</a>
       </td>
    </tr>
 </table>
@@ -178,7 +178,7 @@ and easy to live with throughout the day.
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FEFCFC">#FEFCFC</a>
+         <a href="https://codigrate.com/tools/color/FEFCFC">#FEFCFC</a>
       </td>
    </tr>
    <tr>
@@ -187,7 +187,7 @@ and easy to live with throughout the day.
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F8DBE6">#F8DBE6</a>
+         <a href="https://codigrate.com/tools/color/F8DBE6">#F8DBE6</a>
       </td>
    </tr>
    <tr>
@@ -196,7 +196,7 @@ and easy to live with throughout the day.
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/B54B66">#B54B66</a>
+         <a href="https://codigrate.com/tools/color/B54B66">#B54B66</a>
       </td>
    </tr>
 </table>
@@ -235,7 +235,7 @@ tones and subtle green life. It creates a focused, earthy atmosphere that feels 
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/20231C">#20231C</a>
+         <a href="https://codigrate.com/tools/color/20231C">#20231C</a>
       </td>
    </tr>
    <tr>
@@ -244,7 +244,7 @@ tones and subtle green life. It creates a focused, earthy atmosphere that feels 
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/394132">#394132</a>
+         <a href="https://codigrate.com/tools/color/394132">#394132</a>
       </td>
    </tr>
    <tr>
@@ -253,7 +253,7 @@ tones and subtle green life. It creates a focused, earthy atmosphere that feels 
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/73A621">#73A621</a>
+         <a href="https://codigrate.com/tools/color/73A621">#73A621</a>
       </td>
    </tr>
 </table>
@@ -293,7 +293,7 @@ and quietly expressive.
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FCFBFA">#FCFBFA</a>
+         <a href="https://codigrate.com/tools/color/FCFBFA">#FCFBFA</a>
       </td>
    </tr>
    <tr>
@@ -302,7 +302,7 @@ and quietly expressive.
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EFE6E0">#EFE6E0</a>
+         <a href="https://codigrate.com/tools/color/EFE6E0">#EFE6E0</a>
       </td>
    </tr>
    <tr>
@@ -311,7 +311,7 @@ and quietly expressive.
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A7714C">#A7714C</a>
+         <a href="https://codigrate.com/tools/color/A7714C">#A7714C</a>
       </td>
    </tr>
 </table>
@@ -351,7 +351,7 @@ of atmosphere to everyday browsing.
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1E1A1B">#1E1A1B</a>
+         <a href="https://codigrate.com/tools/color/1E1A1B">#1E1A1B</a>
       </td>
    </tr>
    <tr>
@@ -360,7 +360,7 @@ of atmosphere to everyday browsing.
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/372C2F">#372C2F</a>
+         <a href="https://codigrate.com/tools/color/372C2F">#372C2F</a>
       </td>
    </tr>
    <tr>
@@ -369,7 +369,7 @@ of atmosphere to everyday browsing.
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/CC654E">#CC654E</a>
+         <a href="https://codigrate.com/tools/color/CC654E">#CC654E</a>
       </td>
    </tr>
 </table>
@@ -408,7 +408,7 @@ accents into Chrome. It feels fresh, calm, and expressive, offering a refined br
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FAFDFD">#FAFDFD</a>
+         <a href="https://codigrate.com/tools/color/FAFDFD">#FAFDFD</a>
       </td>
    </tr>
    <tr>
@@ -417,7 +417,7 @@ accents into Chrome. It feels fresh, calm, and expressive, offering a refined br
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/91D1DA">#91D1DA</a>
+         <a href="https://codigrate.com/tools/color/91D1DA">#91D1DA</a>
       </td>
    </tr>
    <tr>
@@ -426,7 +426,7 @@ accents into Chrome. It feels fresh, calm, and expressive, offering a refined br
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/087E8E">#087E8E</a>
+         <a href="https://codigrate.com/tools/color/087E8E">#087E8E</a>
       </td>
    </tr>
 </table>
@@ -466,7 +466,7 @@ strong personality and clear visual contrast.
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/33121D">#33121D</a>
+         <a href="https://codigrate.com/tools/color/33121D">#33121D</a>
       </td>
    </tr>
    <tr>
@@ -475,7 +475,7 @@ strong personality and clear visual contrast.
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/5D263A">#5D263A</a>
+         <a href="https://codigrate.com/tools/color/5D263A">#5D263A</a>
       </td>
    </tr>
    <tr>
@@ -484,7 +484,7 @@ strong personality and clear visual contrast.
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/FF5FA2">#FF5FA2</a>
+         <a href="https://codigrate.com/tools/color/FF5FA2">#FF5FA2</a>
       </td>
    </tr>
 </table>
@@ -523,7 +523,7 @@ and clean blues to create a light, refreshing Chrome experience that feels livel
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/F7FAF6">#F7FAF6</a>
+         <a href="https://codigrate.com/tools/color/F7FAF6">#F7FAF6</a>
       </td>
    </tr>
    <tr>
@@ -532,7 +532,7 @@ and clean blues to create a light, refreshing Chrome experience that feels livel
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/94B98B">#94B98B</a>
+         <a href="https://codigrate.com/tools/color/94B98B">#94B98B</a>
       </td>
    </tr>
    <tr>
@@ -541,7 +541,7 @@ and clean blues to create a light, refreshing Chrome experience that feels livel
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/375B2E">#375B2E</a>
+         <a href="https://codigrate.com/tools/color/375B2E">#375B2E</a>
       </td>
    </tr>
 </table>
@@ -580,7 +580,7 @@ plum-espresso depth, and soft blush accents into Chrome. It feels romantic, mood
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/271F20">#271F20</a>
+         <a href="https://codigrate.com/tools/color/271F20">#271F20</a>
       </td>
    </tr>
    <tr>
@@ -589,7 +589,7 @@ plum-espresso depth, and soft blush accents into Chrome. It feels romantic, mood
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/564245">#564245</a>
+         <a href="https://codigrate.com/tools/color/564245">#564245</a>
       </td>
    </tr>
    <tr>
@@ -598,7 +598,7 @@ plum-espresso depth, and soft blush accents into Chrome. It feels romantic, mood
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/D39199">#D39199</a>
+         <a href="https://codigrate.com/tools/color/D39199">#D39199</a>
       </td>
    </tr>
 </table>
@@ -637,7 +637,7 @@ experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/EDF2FA">#EDF2FA</a>
+         <a href="https://codigrate.com/tools/color/EDF2FA">#EDF2FA</a>
       </td>
    </tr>
    <tr>
@@ -646,7 +646,7 @@ experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/A9B9DA">#A9B9DA</a>
+         <a href="https://codigrate.com/tools/color/A9B9DA">#A9B9DA</a>
       </td>
    </tr>
    <tr>
@@ -655,7 +655,7 @@ experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/3F4494">#3F4494</a>
+         <a href="https://codigrate.com/tools/color/3F4494">#3F4494</a>
       </td>
    </tr>
 </table>
@@ -694,7 +694,7 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
          Background
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/1A1F35">#1A1F35</a>
+         <a href="https://codigrate.com/tools/color/1A1F35">#1A1F35</a>
       </td>
    </tr>
    <tr>
@@ -703,7 +703,7 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
          Frame
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/323B66">#323B66</a>
+         <a href="https://codigrate.com/tools/color/323B66">#323B66</a>
       </td>
    </tr>
    <tr>
@@ -712,7 +712,7 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
          Accent
       </td>
       <td>
-         <a href="https://codigrate.com/en-US/tools/color/7285DC">#7285DC</a>
+         <a href="https://codigrate.com/tools/color/7285DC">#7285DC</a>
       </td>
    </tr>
 </table>
@@ -752,8 +752,8 @@ and atmosphere without disrupting your workflow.
 <!-- markdownlint-disable -->
 <table>
    <tr>
-      <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/en-US/assets/employee/circle/0000.png" width="90px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
-      <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/en-US/assets/employee/circle/0002.png" width="90px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/furknyavuz"><img src="https://codigrate.com/assets/employee/circle/0000.png" width="90px;" alt=""/><br /><sub><b>Furkan Yavuz</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/kerimalp"><img src="https://codigrate.com/assets/employee/circle/0002.png" width="90px;" alt=""/><br /><sub><b>Kerim Alp Kaya</b></sub></a><br /></td>
    </tr>
 </table>
 <!-- markdownlint-enable -->
