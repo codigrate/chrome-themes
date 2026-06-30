@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Sequoia Theme",
   "description": "A dark Chrome theme inspired by Sequoia, featuring deep forest tones, earthy browns, and natural green accents.",
-  "version": "2026.1.16",
+  "version": "2026.1.17",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
