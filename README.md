@@ -36,7 +36,7 @@ these themes aim to make your browsing experience visually inspiring and comfort
 </p>
 
 <h1 align="center">
-Everest
+   Everest
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/kcldghlfficdfjjjcenephkkdkcjngic?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/kcldghlfficdfjjjcenephkkdkcjngic)
@@ -45,9 +45,7 @@ Everest
 
 ## Description
 
-Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme brings a crisp and calming
-presence to Chrome. Soft icy tones and clean, airy surfaces evoke snow-covered peaks and clear mountain skies,
-creating a browsing experience that feels fresh, focused, and easy on the eyes.
+Inspired by the majestic heights and serene landscapes of Mount Everest, this light theme aims to provide a calming and focused coding environment. The soft blues and grays mimic the icy terrains, while subtle hints of warmer colors evoke the golden hues of dawn breaking over snow-capped peaks.
 
 ## Screenshots
 
@@ -187,7 +185,7 @@ creating a browsing experience that feels fresh, focused, and easy on the eyes.
 </p>
 
 <h1 align="center">
-Aurora Borealis
+   Aurora Borealis
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/ggdeckhhnhopdjnnbngcflijkhnlodfk?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/ggdeckhhnhopdjnnbngcflijkhnlodfk)
@@ -196,9 +194,7 @@ Aurora Borealis
 
 ## Description
 
-Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic
-night sky. Deep blue-green tones shape the browser frame, while luminous accents echo the ethereal colors of the Northern
-Lights, creating a browsing atmosphere that feels immersive, calm, and vibrant.
+Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic night sky. Dark blues and teals serve as the backdrop, while lighter accents echo the ethereal colors of the Northern Lights. The palette is designed to be easy on the eyes, helping you focus, and code efficiently.
 
 ## Screenshots
 
@@ -338,7 +334,7 @@ Lights, creating a browsing atmosphere that feels immersive, calm, and vibrant.
 </p>
 
 <h1 align="center">
-Sakura
+   Sakura
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/nnildobojpcnfhiihnjklleoimimmkcc?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/nnildobojpcnfhiihnjklleoimimmkcc)
@@ -347,9 +343,7 @@ Sakura
 
 ## Description
 
-Inspired by the enchanting softness of Sakura blossoms, this theme brings a delicate spring atmosphere to Chrome.
-Gentle pinks and muted complementary tones create a serene, polished browser experience that feels light, graceful,
-and easy to live with throughout the day.
+Inspired by the enchanting allure of Sakura blossoms, this theme encapsulates the soft, calming essence of spring. Delicate pinks serve as the backdrop, representing the blossoms, while muted greens and blues act as complementary accents, reflecting the tranquil garden and clear sky. The palette, akin to a serene, blooming Sakura garden, is designed to be easy on the eyes, aiding focus and efficient coding.
 
 ## Screenshots
 
@@ -489,7 +483,7 @@ and easy to live with throughout the day.
 </p>
 
 <h1 align="center">
-Sequoia
+   Sequoia
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/elbdggfmdikianlcniekopdflpkppnoj?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/elbdggfmdikianlcniekopdflpkppnoj)
@@ -498,8 +492,7 @@ Sequoia
 
 ## Description
 
-Inspired by the towering presence and grounded calm of sequoias, this dark theme surrounds Chrome with rich woodland
-tones and subtle green life. It creates a focused, earthy atmosphere that feels steady, deep, and comfortably subdued.
+Inspired by the towering presence and serene environment of sequoias, it envelops your IDE in deep blacks and browns, providing a calm and focused coding atmosphere. Accents of vibrant green illuminate the interface subtly, mirroring the vitality of these magnificent trees. Venture into the digital woods, and let its grounded, tranquil palette guide you through the logical forest of your code efficiently.
 
 ## Screenshots
 
@@ -639,7 +632,7 @@ tones and subtle green life. It creates a focused, earthy atmosphere that feels 
 </p>
 
 <h1 align="center">
-Autumn
+   Autumn
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/fffebmlejekcghghcmiinjamjdcbbojc?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/fffebmlejekcghghcmiinjamjdcbbojc)
@@ -648,9 +641,7 @@ Autumn
 
 ## Description
 
-Inspired by the warm hues and rustic charm of autumn, this light theme brings soft seasonal comfort to Chrome.
-Earthy oranges, mellow neutrals, and crisp contrast create a cozy browsing space that feels welcoming, balanced,
-and quietly expressive.
+Inspired by the warm hues and rustic feel of the autumn, this light theme aims to evoke a sense of comfort and tranquility. It blends soothing earth tones and crisp air-like whites, capturing the essence of fall leaves and late afternoon sunlight. The palette is designed to be gentle on the eyes, promoting focus and productivity.
 
 ## Screenshots
 
@@ -790,7 +781,7 @@ and quietly expressive.
 </p>
 
 <h1 align="center">
-Roraima
+   Roraima
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/djgpkjnnddponeeeefijcpballhflkgd?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/djgpkjnnddponeeeefijcpballhflkgd)
@@ -799,9 +790,7 @@ Roraima
 
 ## Description
 
-Inspired by the dramatic sunset over Mount Roraima, this dark theme blends dusky purples, ember-like oranges,
-and twilight shadows into a bold yet balanced browser palette. It brings warmth, depth, and a cinematic sense
-of atmosphere to everyday browsing.
+Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessly blends the deep twilight hues of blues and purples with the fiery brilliance of oranges and yellows. Evoking the serene majesty of Roraima as day transitions to night, this balanced palette offers a soothing yet invigorating backdrop, ensuring an optimal and focused coding experience.
 
 ## Screenshots
 
@@ -941,7 +930,7 @@ of atmosphere to everyday browsing.
 </p>
 
 <h1 align="center">
-Istanbul
+   Istanbul
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/cjlcpahdceldmbpjbfglhmdlmonjhndf?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/cjlcpahdceldmbpjbfglhmdlmonjhndf)
@@ -950,8 +939,7 @@ Istanbul
 
 ## Description
 
-Inspired by the soft daylight and sea breezes of Istanbul, this theme brings airy turquoise tones and warm historical
-accents into Chrome. It feels fresh, calm, and expressive, offering a refined browsing atmosphere with a distinct coastal elegance.
+Inspired by the soft daylight and sea breezes of Istanbul, this theme blends calm turquoise tones with warm historical accents to create a serene yet expressive coding environment. Light, airy backgrounds keep the editor clean and comfortable, while teals, aquas, and muted golden hues add clarity and focus to essential syntax elements.
 
 ## Screenshots
 
@@ -1091,7 +1079,7 @@ accents into Chrome. It feels fresh, calm, and expressive, offering a refined br
 </p>
 
 <h1 align="center">
-Miami
+   Miami
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/kcmjhfhghepidmmaklccljefhjgfnlbc?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/kcmjhfhghepidmmaklccljefhjgfnlbc)
@@ -1100,9 +1088,7 @@ Miami
 
 ## Description
 
-Inspired by the electric nights and pastel sunsets of Miami, this dark theme fills Chrome with bold purples,
-vivid pinks, tropical teals, and warm neon energy. It creates a playful yet polished browsing experience with
-strong personality and clear visual contrast.
+Inspired by the electric nights and pastel sunsets of Miami, this theme blends deep purples with vibrant neon accents to create a bold yet balanced coding environment. Dark, warm backgrounds ground the editor, while vivid pinks, corals, and tropical teals bring energy and clarity to key syntax elements.
 
 ## Screenshots
 
@@ -1242,7 +1228,7 @@ strong personality and clear visual contrast.
 </p>
 
 <h1 align="center">
-Rio de Janeiro
+   Rio de Janeiro
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/docafppdkimloimielffokjbnpfjaaie?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/docafppdkimloimielffokjbnpfjaaie)
@@ -1251,8 +1237,7 @@ Rio de Janeiro
 
 ## Description
 
-Inspired by Rio's lush hills, bright air, and coastal energy, this theme blends soft minty tones with vibrant greens
-and clean blues to create a light, refreshing Chrome experience that feels lively, open, and balanced.
+Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blends airy minty backgrounds with confident rainforest greens and clean coastal blues. The editor stays bright and calm for long sessions, while crisp greens and balanced accents keep syntax readable and focused.
 
 ## Screenshots
 
@@ -1392,7 +1377,7 @@ and clean blues to create a light, refreshing Chrome experience that feels livel
 </p>
 
 <h1 align="center">
-Paris
+   Paris
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/jcneihnpahfoamjdncacanalmdiokkbj?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/jcneihnpahfoamjdncacanalmdiokkbj)
@@ -1401,8 +1386,7 @@ Paris
 
 ## Description
 
-Inspired by candlelit cafes, stone boulevards, and Paris's late-night glow, this theme brings dusky rose,
-plum-espresso depth, and soft blush accents into Chrome. It feels romantic, moody, and elegant without losing clarity.
+Inspired by elegant boulevards and Paris’s sunset glow, this theme trades bright champagne for dusty rose accents over calm plum-espresso tones. Soft dark editor backgrounds keep focus clear, while mauve surfaces and wine-tinted hovers add depth and balance, with a gentle blush accent guiding attention across the interface.
 
 ## Screenshots
 
@@ -1542,7 +1526,7 @@ plum-espresso depth, and soft blush accents into Chrome. It feels romantic, mood
 </p>
 
 <h1 align="center">
-Tallinn
+   Tallinn
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/efehigdahohhplollagfpnleobcaknpc?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/efehigdahohhplollagfpnleobcaknpc)
@@ -1551,8 +1535,7 @@ Tallinn
 
 ## Description
 
-Inspired by Tallinn's crisp light and Baltic calm, this theme pairs cool porcelain tones with Nordic blues for a browser
-experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps everything fresh and readable.
+Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcelain backgrounds with cool Nordic blues for a clean, focused coding experience. Soft, bright surfaces enhance readability, while deep ink accents and subtle lavender-rose highlights add clarity and warmth without losing the chill vibe.
 
 ## Screenshots
 
@@ -1692,7 +1675,7 @@ experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps
 </p>
 
 <h1 align="center">
-Tokyo
+   Tokyo
 </h1>
 
 [![Version](https://img.shields.io/chrome-web-store/v/glgifonajfdadakpjjndpfnmmlaoeglb?label=Version&style=for-the-badge)](https://chromewebstore.google.com/detail/glgifonajfdadakpjjndpfnmmlaoeglb)
@@ -1701,8 +1684,7 @@ Tokyo
 
 ## Description
 
-Inspired by Tokyo's neon-lit streets and midnight skyline, this theme surrounds Chrome with deep indigo tones,
-electric violets, and cool luminous accents. It feels sleek, atmospheric, and distinctly futuristic while staying polished.
+Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow of lantern-lined alleys, this theme blends deep indigo shadows with electric violet highlights to create a sleek, futuristic coding atmosphere. Moody blues keep the editor calm and focused, while luminous purples, soft lilacs, and crisp cyan accents add clarity and energy to key syntax elements.
 
 ## Screenshots
 
@@ -1833,7 +1815,7 @@ electric violets, and cool luminous accents. It feels sleek, atmospheric, and di
    </tr>
 </table>
 
-## Collections
+---
 
 <p align="center">
    <a href="https://chromewebstore.google.com/detail/all-in-one-themes/iekicoldppmopekekolhdoofncnhhbeh">
