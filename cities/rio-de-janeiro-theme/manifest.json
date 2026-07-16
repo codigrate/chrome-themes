@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Rio de Janeiro Theme",
   "description": "A light Chrome theme inspired by Rio de Janeiro, featuring tropical greens, sunny warmth, and fresh vibrant accents.",
-  "version": "2026.1.13",
+  "version": "2026.1.14",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
