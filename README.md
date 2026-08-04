@@ -69,7 +69,7 @@ Inspired by the majestic heights and serene landscapes of Mount Everest, this li
    <tr>
       <td><img src="https://codigrate.com/util/color/CADAE0.png?width=30&height=30" alt="#CADAE0"></td>
       <td>
-         Glacier Edge
+         Ice Melt
       </td>
       <td>
          Frame
@@ -146,7 +146,7 @@ Inspired by the natural phenomena of the Aurora Borealis, this dark theme captur
    <tr>
       <td><img src="https://codigrate.com/util/color/7AC6F5.png?width=30&height=30" alt="#7AC6F5"></td>
       <td>
-         Aurora Sky
+         Arctic Cyan
       </td>
       <td>
          Accent
@@ -264,7 +264,7 @@ Inspired by the towering presence and serene environment of sequoias, it envelop
    <tr>
       <td><img src="https://codigrate.com/util/color/394132.png?width=30&height=30" alt="#394132"></td>
       <td>
-         Bark Shadow
+         Evergreen Shade
       </td>
       <td>
          Frame
@@ -317,7 +317,7 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/FFFFFF.png?width=30&height=30" alt="#FFFFFF"></td>
       <td>
-         Cloud White
+         Parchment
       </td>
       <td>
          Background
@@ -341,7 +341,7 @@ Inspired by the warm hues and rustic feel of the autumn, this light theme aims t
    <tr>
       <td><img src="https://codigrate.com/util/color/A7714C.png?width=30&height=30" alt="#A7714C"></td>
       <td>
-         Chestnut
+         Copper Leaf
       </td>
       <td>
          Accent
@@ -394,7 +394,7 @@ Inspired by the captivating sunset over Mount Roraima, this dark theme seamlessl
    <tr>
       <td><img src="https://codigrate.com/util/color/372C2F.png?width=30&height=30" alt="#372C2F"></td>
       <td>
-         Basalt
+         Canyon Shadow
       </td>
       <td>
          Frame
@@ -524,7 +524,7 @@ Inspired by the electric nights and pastel sunsets of Miami, this theme blends d
    <tr>
       <td><img src="https://codigrate.com/util/color/5D263A.png?width=30&height=30" alt="#5D263A"></td>
       <td>
-         Mulberry Shadow
+         Plum Night
       </td>
       <td>
          Frame
@@ -577,7 +577,7 @@ Inspired by Rio's lush hills, soft morning light, and ocean air, this theme blen
    <tr>
       <td><img src="https://codigrate.com/util/color/F8FBF7.png?width=30&height=30" alt="#F8FBF7"></td>
       <td>
-         Coconut White
+         Morning Breeze
       </td>
       <td>
          Background
@@ -666,7 +666,7 @@ Inspired by elegant boulevards and Paris’s sunset glow, this theme trades brig
    <tr>
       <td><img src="https://codigrate.com/util/color/D18FA8.png?width=30&height=30" alt="#D18FA8"></td>
       <td>
-         Paris Rose
+         Montmartre Rose
       </td>
       <td>
          Accent
@@ -707,7 +707,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/F8FAFF.png?width=30&height=30" alt="#F8FAFF"></td>
       <td>
-         First Snow
+         Baltic Morning
       </td>
       <td>
          Background
@@ -731,7 +731,7 @@ Inspired by Tallinn's crisp light and Baltic calm, this theme pairs airy porcela
    <tr>
       <td><img src="https://codigrate.com/util/color/3F4494.png?width=30&height=30" alt="#3F4494"></td>
       <td>
-         Baltic Indigo
+         Old Town Indigo
       </td>
       <td>
          Accent
@@ -784,7 +784,7 @@ Inspired by Tokyo's neon-lit side streets, midnight skylines, and the quiet glow
    <tr>
       <td><img src="https://codigrate.com/util/color/323B66.png?width=30&height=30" alt="#323B66"></td>
       <td>
-         City Block
+         Indigo District
       </td>
       <td>
          Frame
