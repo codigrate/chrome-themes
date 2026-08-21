@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Miami Theme",
   "description": "A dark Chrome theme inspired by Miami, featuring neon pink highlights, deep magenta tones, and vibrant retro accents.",
-  "version": "2026.1.16",
+  "version": "2026.1.18",
   "icons": {
     "16": "images/icon16.png",
     "48": "images/icon48.png",
