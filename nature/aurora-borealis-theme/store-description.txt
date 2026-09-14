@@ -1,0 +1,10 @@
+Inspired by the natural phenomena of the Aurora Borealis, this dark theme captures the majesty and mystery of the Arctic night sky. Deep blue-green tones shape the browser frame, while luminous accents echo the ethereal colors of the Northern Lights, creating a browsing atmosphere that feels immersive, calm, and vibrant.
+
+Features
+- Colors the whole browser frame: toolbar, tabs, omnibox and the background surfaces
+- Calm, nature-inspired palette designed for long, comfortable coding sessions
+- Actively maintained and regularly refined
+
+Enjoying our theme? Giving us a 5-star rating on the Chrome Web Store helps us grow and create more themes!
+
+Have feedback or found an issue? Please report it on our Issue Tracker: https://github.com/codigrate/chrome-themes/issues

@@ -1,0 +1,10 @@
+Inspired by candlelit cafes, stone boulevards, and Paris's late-night glow, this theme brings dusky rose, plum-espresso depth, and soft blush accents into Chrome. It feels romantic, moody, and elegant without losing clarity.
+
+Features
+- Colors the whole browser frame: toolbar, tabs, omnibox and the background surfaces
+- Vibrant, city-inspired palette with a rich, cinematic atmosphere
+- Actively maintained and regularly refined
+
+Enjoying our theme? Giving us a 5-star rating on the Chrome Web Store helps us grow and create more themes!
+
+Have feedback or found an issue? Please report it on our Issue Tracker: https://github.com/codigrate/chrome-themes/issues

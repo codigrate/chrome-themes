@@ -1,0 +1,10 @@
+Inspired by Tokyo's neon-lit streets and midnight skyline, this theme surrounds Chrome with deep indigo tones, electric violets, and cool luminous accents. It feels sleek, atmospheric, and distinctly futuristic while staying polished.
+
+Features
+- Colors the whole browser frame: toolbar, tabs, omnibox and the background surfaces
+- Vibrant, city-inspired palette with a rich, cinematic atmosphere
+- Actively maintained and regularly refined
+
+Enjoying our theme? Giving us a 5-star rating on the Chrome Web Store helps us grow and create more themes!
+
+Have feedback or found an issue? Please report it on our Issue Tracker: https://github.com/codigrate/chrome-themes/issues

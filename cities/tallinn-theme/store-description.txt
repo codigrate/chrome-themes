@@ -1,0 +1,10 @@
+Inspired by Tallinn's crisp light and Baltic calm, this theme pairs cool porcelain tones with Nordic blues for a browser experience that feels clean, minimal, and quietly elegant. Subtle contrast keeps everything fresh and readable.
+
+Features
+- Colors the whole browser frame: toolbar, tabs, omnibox and the background surfaces
+- Vibrant, city-inspired palette with a rich, cinematic atmosphere
+- Actively maintained and regularly refined
+
+Enjoying our theme? Giving us a 5-star rating on the Chrome Web Store helps us grow and create more themes!
+
+Have feedback or found an issue? Please report it on our Issue Tracker: https://github.com/codigrate/chrome-themes/issues

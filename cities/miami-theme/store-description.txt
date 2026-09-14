@@ -1,0 +1,10 @@
+Inspired by the electric nights and pastel sunsets of Miami, this dark theme fills Chrome with bold purples, vivid pinks, tropical teals, and warm neon energy. It creates a playful yet polished browsing experience with strong personality and clear visual contrast.
+
+Features
+- Colors the whole browser frame: toolbar, tabs, omnibox and the background surfaces
+- Vibrant, city-inspired palette with a rich, cinematic atmosphere
+- Actively maintained and regularly refined
+
+Enjoying our theme? Giving us a 5-star rating on the Chrome Web Store helps us grow and create more themes!
+
+Have feedback or found an issue? Please report it on our Issue Tracker: https://github.com/codigrate/chrome-themes/issues
