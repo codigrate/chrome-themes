@@ -17,3 +17,5 @@ all-in-one-themes/background.js
 *.json
 /.idea
 *.crx
+# store publishing tooling stays local (credentials sit in the ignored *.json next to it)
+/publish-chromewebstore.js
